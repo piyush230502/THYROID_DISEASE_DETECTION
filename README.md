@@ -7,6 +7,7 @@ This project involves developing a machine learning model to detect thyroid dise
 - [@vishalrajput]
 - [@piyushchaubey]
 - [@divyamshankhdhar]
+- [@surajkushwaha]
 
 
 ## Badges
